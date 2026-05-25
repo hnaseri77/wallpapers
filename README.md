@@ -24,6 +24,7 @@ Special thanks to these amazing websites for providing high-quality wallpapers a
 * [4K Wallpapers](https://4kwallpapers.com)
 * [Pexels](https://www.pexels.com)
 * [Unsplash](https://unsplash.com)
+* [Wallhaven](https://wallhaven.cc)
 
 Please support the original creators by visiting their websites.
 
