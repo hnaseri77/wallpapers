@@ -28,7 +28,7 @@ Downloading the `.zip` file or cloning the entire repository may take a while an
 > **💡 Pro Tip:** If you want to clone this repository, it is highly recommended to use a shallow clone to save time and storage:
 >
 > ```bash
-> git clone --depth 1 [https://github.com/hnaseri77/wallpapers.git](https://github.com/hnaseri77/wallpapers.git)
+> git clone --depth 1 https://github.com/hnaseri77/wallpapers.git
 > ```
 
 ---
